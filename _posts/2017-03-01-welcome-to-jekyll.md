@@ -3,8 +3,8 @@ title: "Welcome to ON"
 layout: post
 ---
 
-It's my first time to post something.
-I want to post about code.
+처음으로 글을 써보았다.
+오래걸려서 만든 블로그 이기 때문에 열심히 쓰고 싶다.
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
